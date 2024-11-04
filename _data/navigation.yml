@@ -11,8 +11,8 @@ main:
   - title: "Temporary Program"
     url: /program/    
 
-  - title: "Program commitee"
-    url: /commitee/    
+  #- title: "Program commitee"
+  #  url: /commitee/    
     
   #- title: "Portfolio"
   #  url: /portfolio/

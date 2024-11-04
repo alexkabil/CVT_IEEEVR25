@@ -6,11 +6,18 @@ permalink: /program/
 #redirect_from:
  # - /resume
 ---
-Programme temporaire
 
+The workshop will be held in a half-day.
 
-# Temporary Program
-
-## Call
+## Workshop introduction
+- Presentation of the workshop's topics
 
 ## Keynote
+- Introduction keynote by Marc PARENTHOEN
+
+## Presentations of accepted submissions
+- 4 papers selected
+
+## Round table about the workshop’s topics
+- 'Virtual' for cybersecurity
+- Human Factors for learning
