@@ -1,6 +1,6 @@
 ---
 permalink: /
-#title: "Workshop Overview"
+title: "Cybersecurity Virtual Training: from cyber ranges to extended reality"
 author_profile: true
 redirect_from: 
   - /about/
