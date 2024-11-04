@@ -1,11 +1,14 @@
 ---
 permalink: /
-title: "Workshop Overview"
+#title: "Workshop Overview"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+# CVT: Cybersecurity Virtual Training: from cyber ranges to extended reality
+
+## Workshop overview
 
 Both network simulation and extended reality fields use the word ‘Virtual’ but with a different meaning, from Virtualization of computer architectures and networks to immersion into a 3D digital world.
 
