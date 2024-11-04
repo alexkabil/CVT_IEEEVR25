@@ -1,11 +1,13 @@
 ---
 layout: archive
 title: "Temporary Program"
-permalink: /commitee/
+permalink: /program/
 #author_profile: true
 #redirect_from:
  # - /resume
 ---
+Programme temporaire
+
 
 # Temporary Program
 

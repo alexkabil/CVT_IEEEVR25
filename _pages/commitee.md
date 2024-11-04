@@ -1,15 +1,15 @@
 ---
 layout: archive
-title: "Call for contribution"
+title: "Program Commitee"
 permalink: /commitee/
 #author_profile: true
 #redirect_from:
  # - /resume
 ---
 
-# Program Commitee
 
-## Alex
+Alex
+
 Alex is a blabla working on
 - topic1
 - Topic2
