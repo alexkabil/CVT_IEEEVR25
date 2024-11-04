@@ -6,7 +6,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-# CVT: Cybersecurity Virtual Training: from cyber ranges to extended reality
 
 ## Workshop overview
 
