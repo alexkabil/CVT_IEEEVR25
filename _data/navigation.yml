@@ -8,8 +8,8 @@ main:
   - title: "Call for papers"
     url: /call/
 
-  - title: "Temporary Program"
-    url: /program/    
+  #- title: "Temporary Program"
+   # url: /program/    
 
   #- title: "Program commitee"
   #  url: /commitee/    
