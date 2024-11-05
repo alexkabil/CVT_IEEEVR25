@@ -6,7 +6,7 @@ permalink: /call/
 #redirect_from:
 #  - /resume
 ---
-[You can find the pdf file here](../files/CFP_CRXR_IEEEVR25.pdf)
+[You can find the pdf file here](files/CFP_CRXR_IEEEVR25.pdf)
 
 ## Overview
 Both network simulation and extended reality fields use the word ‘Virtual’ but with a different meaning, from Virtualization of computer architectures and networks to immersion into a 3D digital world.
