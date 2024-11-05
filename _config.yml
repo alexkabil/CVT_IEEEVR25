@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "IEEEVR 25 Workshop / CVT"
+title                    : "IEEEVR 25 Workshop / CRXR"
 title_separator          : "-"
-name                     : &name "Cybersecurity Virtual Training"
+name                     : &name "Cyber Ranges to XR (CRXR)"
 description              : #&description "personal description"
 url                      : https://alexkabil.github.io/CVT_IEEEVR25 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : #"profile.png"
   name             : #"CVTT"
   pronouns         : # example: "she/her"  
-  bio              : "CVT: Cybersecurity Virtual Training: from cyber ranges to extended reality"
+  bio              : "Cyber Ranges to XR (CRXR): Shaping the Future of Cybersecurity Training"
   location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL
