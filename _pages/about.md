@@ -9,11 +9,10 @@ redirect_from:
 
 ## Workshop overview
 
-Both network simulation and extended reality fields use the word ‘Virtual’ but with a different meaning, from Virtualization of computer architectures and networks to immersion into a 3D digital world.
+In cybersecurity training, virtualisation spans simulated computer networks, tabletop crisis management scenarios and fully immersive 3D experiences. Virtualisation is a key concept for human factors and training design as it will determine learners engagement. However, the definition of virtualisation varies across disciplines and scientific research rarely overlap. 
 
-Both these approaches are used for training to cybersecurity, but for different purposes. 
+This workshop aims at discussing how the network simulation and XR domains could intricate to enhance training in cybersecurity. Human factor approach as a promising link between them will be considered. For example, terms from cognitive sciences as immersion, presence and situational awareness in the context of strategic and technical cybersecurity virtual training could be discussed. 
 
-This workshop aims to explore, discuss, and understand the integration of human factors  and social science in designing diverse immersive cybersecurity training programs. Specifically, it seeks to study convergence and divergence across different training modalities, ranging from hybrid approaches—such as cyber ranges and augmented reality—to fully virtual environments, such as those enabled by virtual reality.
 
 ## Important dates
 
